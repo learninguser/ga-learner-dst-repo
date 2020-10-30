@@ -1,0 +1,6 @@
+[submodule "analyzing-movie-dataset"]
+	path = analyzing-movie-dataset
+	url = https://github.com/learninguser/analyzing-movie-dataset.git
+[submodule "analyzing-weather-dataset"]
+	path = analyzing-weather-dataset
+	url = https://github.com/learninguser/analyzing-weather-dataset.git
